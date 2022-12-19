@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I received my bachelor's degree from School of Physics and Technology in Nanjing Normal University in 2019, and reveived my master's degree from School of Computer and Electronic Information in Nanjing Normal University in 2022.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My interests also contain WWE, NBA, K-POP and so on. I used to be a toxic VTuber fan, but I've retired from that. Recently I usually watch [棋手战鹰](https://space.bilibili.com/2051617240)'s live stream. She is so fucking interesting. Please subscribe her.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yulinghao233@gmail.com](mailto:yulinghao233@gmail.com)
