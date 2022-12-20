@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
 I received my bachelor's degree from School of Physics and Technology in Nanjing Normal University in 2019, and reveived my master's degree from School of Computer and Electronic Information in Nanjing Normal University in 2022.
